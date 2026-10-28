@@ -1,4 +1,3 @@
-cat > .github/workflows/pages.yml <<'EOF'
 name: Publicar site
 
 on:
